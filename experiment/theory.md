@@ -31,7 +31,16 @@ Time profiles for a fed-batch culture for a process involving growth associated 
  <p style="padding-bottom: 10px;">
   The model equations used for simulation are based on fed-batch biochemical reactions growing baker's yeast. It is assumed that the feed does not contain any product. The differential equations are as follows:
   <br/>
- `(dx_1)/dt=mux_1-F/Vx_1`<br><br>`(dx_2)/dt=-sigmax_1+F/V(x_2f-x_2)`<br><br>`(dx_3)/dt=prodx_1-F/Vx_3`<br><br>`(dV)/dt=F`<br><br>`mu=(0.408x_2)/(0.22+x_2)e^(0.028x_3)`<br><br>`sigma=mu/0.1`<br><br>`prod=x_2/(0.44+x_2)e^(-0.015x_3)`<br><br>Here, <br>
+  
+$$\frac{dx_1}{dt}=\mu x_1- \frac{F}{V}x_1$$
+$$\frac{dx_2}{dt}=- \sigma x_1+ \frac{F}{V}(x_2f-x_2)$$
+$$\frac{dx_3}{dt}=\prod x_1-\frac{F}{V}x_3$$
+$$\frac{dV}{dt}=F$$
+ $$\mu =\frac{0.408x_2}{0.22+x_2}e^{0.028x_3}$$
+$$\sigma ={\mu}{0.1}$$
+$$\prod=\frac{x_2}{0.44+x_2}e^{-0.015x_3}$$
+ 
+ <br>Here, <br>
 x1 represents the cell mass concentration(g/l),<br>
 x2 the substrate concentration(g/l), <br>
 x3 the desired product concentration(g/l), <br>
