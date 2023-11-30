@@ -46,9 +46,9 @@ x2 the substrate concentration(g/l), <br>
 x3 the desired product concentration(g/l), <br>
 F the feed rate(l/hr),<br>
 V the volume of the broth(l),<br>
-μ is the specific growth rate (SGR)(`hr^-1`), <br>
-σ is the substrate consumption rate (SCR)(`hr^-1`), and <br>
-π is the product formation rate (PFR) (`hr^-1`).
+$$μ \ is \ the \ specific \ growth \ rate \ (SGR)(hr^{-1})$$
+$$σ \ is \ the \ substrate \ consumption \ rate \ (SCR)(hr^{-1}), \ and$$
+$$π \ is \ the \ product \ formation \ rate \ (PFR) (hr^{-1}).$$
 </p>
 <p style="text-align:left; font-size:18px; font-weight:bold;">Concentration and rate profiles in fed-batch reactor</p>
 <p><img src="images/eq2.PNG"style="width:750px;height:800px;"></p>
