@@ -1,0 +1,32 @@
+=/pretest.json
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-feedbatch-fermentor-iitkgp/exp-feedbatch-fermentor-iitkgp/experiment/pretest.json'
+  ],
+  files: [
+    '/home/runner/work/exp-feedbatch-fermentor-iitkgp/exp-feedbatch-fermentor-iitkgp/experiment/pretest.json'
+  ],
+  c: 'assessment',
+  contentTypes: 'assessment',
+  'content-types': 'assessment',
+  '$0': 'validate'
+}
+Failed while validating /home/runner/work/exp-feedbatch-fermentor-iitkgp/exp-feedbatch-fermentor-iitkgp/experiment/pretest.json
+SyntaxError: /home/runner/work/exp-feedbatch-fermentor-iitkgp/exp-feedbatch-fermentor-iitkgp/experiment/pretest.json: Unexpected end of JSON input
+=/posttest.json
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-feedbatch-fermentor-iitkgp/exp-feedbatch-fermentor-iitkgp/experiment/posttest.json'
+  ],
+  files: [
+    '/home/runner/work/exp-feedbatch-fermentor-iitkgp/exp-feedbatch-fermentor-iitkgp/experiment/posttest.json'
+  ],
+  c: 'assessment',
+  contentTypes: 'assessment',
+  'content-types': 'assessment',
+  '$0': 'validate'
+}
+Failed while validating /home/runner/work/exp-feedbatch-fermentor-iitkgp/exp-feedbatch-fermentor-iitkgp/experiment/posttest.json
+SyntaxError: /home/runner/work/exp-feedbatch-fermentor-iitkgp/exp-feedbatch-fermentor-iitkgp/experiment/posttest.json: Unexpected end of JSON input
