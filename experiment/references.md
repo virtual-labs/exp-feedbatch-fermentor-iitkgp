@@ -4,5 +4,5 @@
 - H. Scott Fogler, "Elements of Chemical Reaction Engineering", Prentice-Hall ofIndia Private Limited, New Delhi (2002).
 - Octave Levenspiel,"Chemical Reaction Engineering", Wiley India (P.) Ltd., New Delhi
 #### Video Lectures
-- [Encoders and Decoders](http://nptel.ac.in/courses/117106114)
+- [Fed Batch](https://www.youtube.com/watch?v=lEBUqRKzv94)
 
