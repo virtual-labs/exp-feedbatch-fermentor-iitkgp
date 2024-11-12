@@ -23,7 +23,9 @@ Declaration growth phase
 <br>2. Mixed growth associated products- Here products are formed during the slow growth and stationary phases. Example: Production of lactic acid fermentation.
  <br>3. Non-growth associated products- Products are formed during the stationary phase when the net growth rate is zero. The specific rate of product formation is constant. Example: Secondary metabolites like antibiotics (penicillin).</p>
 <p style="padding-bottom: 10px;">
+ <div align="center">
 <img src="images/eq1.PNG"style="width:304px;height:228px;"></img>
+ </div>
 <br/>
 Time profiles for a fed-batch culture for a process involving growth associated production. V=volume of the fermentor, P=product concentration, u=specific growth rate, X=biomass and S(gls) = growth limiting substrate concentration.
  </p>
@@ -51,7 +53,9 @@ $$σ \ is \ the \ substrate \ consumption \ rate \ (SCR)(hr^{-1}), \ and$$
 $$π \ is \ the \ product \ formation \ rate \ (PFR) (hr^{-1}).$$
 </p>
 <p style="text-align:left; font-size:18px; font-weight:bold;">Concentration and rate profiles in fed-batch reactor</p>
+<div align="center">
 <p><img src="images/eq2.PNG"style="width:750px;height:800px;"></p>
+</div>
 </div>
 
 
